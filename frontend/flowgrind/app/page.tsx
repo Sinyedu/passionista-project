@@ -1,5 +1,5 @@
 import { Navbar } from "@/app/components/layout/navbar";
-
+//TODO: Customize the home page content, and remove the fragments if not needed
 export default function Home() {
   return (
     <>
