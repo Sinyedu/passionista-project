@@ -1,0 +1,1 @@
+//TODO: General error types and codes
