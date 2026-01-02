@@ -1,1 +1,5 @@
-//TODO: General error types and codes
+//TODO: EXPORTING ERRORS
+
+export * from "./AppError";
+export * from "./NotFoundError";
+export * from "./ValidationError";
